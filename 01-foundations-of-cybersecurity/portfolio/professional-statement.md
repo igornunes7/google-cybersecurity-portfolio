@@ -1,27 +1,17 @@
 # Professional Statement
 
-> Status: rascunho a personalizar. Substitua os campos entre colchetes apenas com informações verdadeiras sobre você.
+## English
 
-## Informações para definir primeiro
+I am a Computer Science student nearing graduation and developing my career in cybersecurity. I am particularly interested in opportunities as a Cybersecurity Analyst or SOC Analyst.
 
-- **Pontos fortes:** [ex.: atenção a detalhes, raciocínio analítico, comunicação, persistência]
-- **Valores profissionais:** [ex.: ética, proteção da privacidade, responsabilidade]
-- **Interesse em segurança:** [o que despertou seu interesse pela área?]
-- **Objetivo profissional:** [ex.: atuar como Cybersecurity Analyst ou SOC Analyst]
-- **Como você pode contribuir:** [como seus pontos fortes ajudam a proteger pessoas e organizações?]
+My strengths include attention to detail, logical thinking, curiosity, and a strong willingness to continuously learn. I am drawn to cybersecurity because it involves analyzing information, investigating unusual activity, solving problems, and understanding how systems and threats work.
 
-## Modelo em português
+My goal is to apply my technical foundation and analytical mindset to help protect systems, data, and organizations while continuing to develop practical skills in security monitoring, threat detection, and incident response.
 
-Sou [sua formação ou momento profissional] em transição/desenvolvimento para a área de segurança cibernética. Tenho como pontos fortes [pontos fortes reais] e valorizo [valores profissionais]. Meu interesse por segurança surgiu de [motivação verdadeira]. Quero desenvolver minha carreira como [objetivo profissional], contribuindo para [impacto que deseja gerar] por meio de [habilidades ou atitudes que você realmente possui].
+## Português
 
-## English version
+Sou estudante de Ciência da Computação, próximo da conclusão da graduação, e estou desenvolvendo minha carreira em segurança cibernética. Tenho interesse especial em oportunidades como Analista de Segurança Cibernética ou Analista de SOC.
 
-I am a [your current background] developing my career in cybersecurity. My strengths include [genuine strengths], and I value [professional values]. My interest in security began with [genuine motivation]. I aim to work as a [career goal], helping [people or organizations] by applying [skills or qualities you genuinely possess].
+Meus pontos fortes incluem atenção aos detalhes, raciocínio lógico, curiosidade e muita disposição para aprender continuamente. A segurança cibernética me interessa por envolver análise de informações, investigação de atividades incomuns, resolução de problemas e compreensão do funcionamento de sistemas e ameaças.
 
-## Checklist antes de publicar
-
-- [ ] O texto está escrito em primeira pessoa.
-- [ ] Todos os pontos fortes são verdadeiros e podem ser demonstrados.
-- [ ] O objetivo profissional está claro.
-- [ ] O texto é curto, específico e soa natural.
-- [ ] Não há informações pessoais sensíveis.
+Meu objetivo é aplicar minha base técnica e meu perfil analítico para ajudar a proteger sistemas, dados e organizações, enquanto continuo desenvolvendo habilidades práticas em monitoramento de segurança, detecção de ameaças e resposta a incidentes.
