@@ -1,181 +1,179 @@
-# Module 1 — Security Domains and Risk Management
+# Módulo 1 — Domínios de Segurança e Gerenciamento de Riscos
 
-## 1. Security Posture
+## 1. Security Posture (Postura de Segurança)
 
-Security posture refers to an organization's ability to manage the defense of critical assets and data and respond to changes.
-
----
-
-## 2. Eight CISSP Security Domains
-
-### Security and Risk Management
-
-Focuses on:
-
-- Defining security goals and objectives
-- Risk reduction
-- Compliance
-- Business continuity
-- Legal regulations
-
-### Asset Security
-
-Focuses on protecting physical and digital assets.
-
-It is also related to:
-
-- Data storage
-- Maintenance
-- Retention
-- Data destruction
-
-### Security Architecture and Engineering
-
-Focuses on optimizing data security by ensuring the implementation of effective tools, systems, and processes to protect an organization's assets and data.
-
-### Communication and Network Security
-
-Focuses on managing and protecting:
-
-- Physical networks
-- Wireless communications
-
-### Identity and Access Management (IAM)
-
-Focuses on access and authorization to keep data secure and ensure that users follow established policies for managing assets.
-
-Main IAM components:
-
-- Identification
-- Authentication
-- Authorization
-- Accountability
-
-### Security Assessment and Testing
-
-Focuses on:
-
-- Security control testing
-- Data collection and analysis
-- Security audits
-- Monitoring risks, threats, and vulnerabilities
-
-### Security Operations
-
-Focuses on:
-
-- Conducting investigations
-- Implementing preventive measures
-
-### Software Development Security
-
-Focuses on the use of secure programming practices.
+A **Security Posture (Postura de Segurança)** refere-se à capacidade de uma organização de gerenciar sua defesa de ativos e dados críticos e reagir a mudanças.
 
 ---
 
-## 3. Social Engineering
+## 2. Os Oito Domínios do CISSP
 
-Social engineering is based on exploiting human error to gain access to information, systems, or an organization.
+### 2.1 Security and Risk Management (Segurança e Gerenciamento de Riscos)
+
+Foca na definição de metas e objetivos de segurança, redução de riscos, conformidade, continuidade de negócios e regulamentações legais.
+
+### 2.2 Asset Security (Segurança de Recursos)
+
+Foca na proteção de ativos físicos e digitais.
+
+Também está relacionado ao:
+
+- Armazenamento de dados;
+- Manutenção de dados;
+- Retenção de dados;
+- Destruição de dados.
+
+### 2.3 Security Architecture and Engineering (Arquitetura e Engenharia de Segurança)
+
+Foca na otimização da segurança de dados, garantindo a implementação de ferramentas, sistemas e processos eficazes para proteger os ativos e os dados de uma organização.
+
+### 2.4 Communication and Network Security (Comunicação e Segurança de Rede)
+
+Foca no gerenciamento e na proteção de:
+
+- Redes físicas;
+- Comunicações sem fio.
+
+### 2.5 Identity and Access Management — IAM (Gerenciamento de Identidade e Acesso)
+
+Foca no acesso e na autorização para manter os dados seguros, garantindo que os usuários sigam as políticas estabelecidas para controlar e gerenciar ativos.
+
+Os principais componentes de **IAM** são:
+
+- Identificação;
+- Autenticação;
+- Autorização;
+- Responsabilidade.
+
+### 2.6 Security Assessment and Testing (Avaliação e Teste de Segurança)
+
+Foca na:
+
+- Realização de testes de controles de segurança;
+- Coleta e análise de dados;
+- Realização de auditorias de segurança;
+- Monitoração de riscos, ameaças e vulnerabilidades.
+
+### 2.7 Security Operations (Operações de Segurança)
+
+Foca na condução de investigações e na implementação de medidas preventivas.
+
+### 2.8 Software Development Security (Segurança do Desenvolvimento de Software)
+
+Foca no uso de práticas de programação seguras.
+
+---
+
+## 3. Social Engineering (Engenharia Social)
+
+A **Social Engineering (Engenharia Social)** baseia-se na exploração do erro humano para obter acesso a dados ou a uma organização.
 
 ---
 
 ## 4. Phishing
 
-Phishing is a social engineering technique used to obtain sensitive or confidential information.
+**Phishing** é uma técnica utilizada para adquirir dados confidenciais.
+
+É um método de **Social Engineering (Engenharia Social)**.
 
 ---
 
-## 5. Risk Levels
+## 5. Níveis de Risco
 
-Organizations commonly classify risks into three levels:
+As organizações costumam classificar os riscos em três níveis:
 
-- Low risk
-- Medium risk
-- High risk
+- Baixo risco;
+- Médio risco;
+- Alto risco.
 
 ---
 
-## 6. Vulnerability
+## 6. Vulnerabilidade
 
-A vulnerability is a weakness that can be exploited by a threat.
+Uma **vulnerabilidade** é uma fraqueza que pode ser explorada por uma ameaça.
 
 ---
 
 ## 7. Ransomware
 
-Ransomware is a malicious attack in which threat actors encrypt an organization's data and demand payment to restore access.
+**Ransomware** é um ataque malicioso no qual agentes de ameaças criptografam os dados de uma organização e exigem pagamento para restaurar o acesso.
 
 ---
 
-## 8. Layers of the Web
+## 8. Camadas da Web
+
+As três camadas estudadas foram:
 
 ### Surface Web
 
-The publicly accessible part of the web that most users interact with through standard web browsers.
+A **Surface Web** é a parte da web utilizada pela maioria das pessoas e que pode ser acessada por meio de navegadores.
 
 ### Deep Web
 
-Content that is generally not publicly indexed and may require authorization or authentication to access.
+A **Deep Web** geralmente requer autorização para ser acessada.
 
 ### Dark Web
 
-A portion of the web that requires specialized software to access.
+A **Dark Web** requer softwares especiais para ser acessada.
 
 ---
 
-## 9. Main Impacts of Threats, Risks, and Vulnerabilities
+## 9. Principais Impactos de Ameaças, Riscos e Vulnerabilidades
 
-The main impacts studied in this module were:
+Os três principais impactos estudados foram:
 
-- Financial impact
-- Identity theft
-- Reputational damage
-
----
-
-## 10. Risk Management Framework (RMF)
-
-The Risk Management Framework consists of seven steps.
-
-### 1. Prepare
-
-Activities required to manage security and privacy risks before a security incident occurs.
-
-### 2. Categorize
-
-Used to develop risk management processes and tasks.
-
-### 3. Select
-
-Choose, customize, and document the controls used to protect the organization.
-
-### 4. Implement
-
-Implement the organization's security and privacy plans and controls.
-
-### 5. Assess
-
-Determine whether the established controls have been implemented correctly.
-
-### 6. Authorize
-
-Accept responsibility for the security and privacy risks that may exist within the organization.
-
-### 7. Monitor
-
-Continuously observe how systems and security controls are operating.
+- Impacto financeiro;
+- Roubo de identidade;
+- Danos à reputação.
 
 ---
 
-## Key Takeaways
+## 10. Risk Management Framework — RMF
 
-After completing this module, I strengthened my understanding of:
+O **Risk Management Framework (RMF)** possui sete etapas para o gerenciamento de riscos.
 
-- Security posture
-- The eight CISSP security domains
-- Identity and Access Management
-- Social engineering and phishing
-- Vulnerabilities and ransomware
-- Risk classification
-- The Risk Management Framework
-- The impact of security risks on organizations
+### 1. Prepare (Preparar)
+
+Refere-se às atividades necessárias para gerenciar os riscos de segurança e privacidade antes que uma violação ocorra.
+
+### 2. Categorize (Categorizar)
+
+Utilizado para desenvolver processos e tarefas de gerenciamento de riscos.
+
+### 3. Select (Selecionar)
+
+Consiste em escolher, personalizar e documentar os controles que protegem a organização.
+
+### 4. Implement (Implementar)
+
+Consiste em implementar os planos de segurança e privacidade da organização.
+
+### 5. Assess (Avaliar)
+
+Determina se os controles estabelecidos foram implementados corretamente.
+
+### 6. Authorize (Autorizar)
+
+Significa assumir a responsabilidade pelos riscos de segurança e privacidade que possam existir em uma organização.
+
+### 7. Monitor (Monitorar)
+
+Consiste em estar ciente de como os sistemas estão operando.
+
+---
+
+## Principais Aprendizados
+
+Neste módulo, aprendi conceitos relacionados a:
+
+- Security Posture (Postura de Segurança);
+- Os oito domínios de segurança do CISSP;
+- Identity and Access Management (IAM);
+- Social Engineering (Engenharia Social);
+- Phishing;
+- Classificação de riscos;
+- Vulnerabilidades;
+- Ransomware;
+- Surface Web, Deep Web e Dark Web;
+- Impactos de ameaças, riscos e vulnerabilidades;
+- Risk Management Framework (RMF).
