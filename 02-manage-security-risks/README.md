@@ -5,8 +5,8 @@ This directory documents my notes, learning progress, and portfolio activities f
 ## Progress
 
 - [x] Module 1
-- [ ] Module 2
-- [ ] Module 3
+- [x] Module 2
+- [x] Module 3
 - [ ] Module 4
 
 ## Contents
@@ -14,6 +14,8 @@ This directory documents my notes, learning progress, and portfolio activities f
 ### Notes
 
 - [Module 1 — Security Domains and Risk Management](notes/module-01-security-domains.md)
+- [Module 2 — Security Frameworks and Controls](notes/module-02-security-frameworks-and-controls.md)
+- [Module 3 — SIEM, Logs and Security Tools](notes/module-03-siem-tools.md)
 
 ### Portfolio
 
