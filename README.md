@@ -8,7 +8,7 @@ Construir uma base sólida para atuar em segurança cibernética, com foco inici
 
 ## Progresso
 
-- [x] [01 — Foundations of Cybersecurity](01-foundations-of-cybersecurity/README.md)
+- [x] [01 — Foundations of Cybersecurity](01-foundations-of-cybersecurity/)
 - [ ] [02 — Play It Safe: Manage Security Risks](./02-manage-security-risks/)
 - [ ] 03 — Connect and Protect: Networks and Network Security
 - [ ] 04 — Tools of the Trade: Linux and SQL
